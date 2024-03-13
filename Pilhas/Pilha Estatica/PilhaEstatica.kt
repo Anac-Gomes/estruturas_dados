@@ -1,13 +1,16 @@
+// Pilha = stack é uma estrutura similar a uma lista - Last In, First Out(O ultimo a entrar, é o primeiro a sair)
+//          Pode: Inserir ou remover um elemento no Topo da pilha
+
 class PilhaEstatica : Empilhavel {
-    private var dados: Array<Any?>
+    private var dados: Array<Any?> //Any = a superclasse dos dados
     private var ponteiroTopo: Int
 
-    constructor(tamanho: Int) {
+    constructor(tamanho: Int) { // construtor
         dados = arrayOfNulls(tamanho)
-        ponteiroTopo = -1
+        ponteiroTopo = -1 // inicial
     }
 
-    override fun empilhar(dado: Any?) {
+    override fun empilhar(dado: Any?) { //Override = usada para relacao de herença sobresceve uma funcao
         if (!estaCheia()) {
             ponteiroTopo++
             dados[ponteiroTopo] = dado
