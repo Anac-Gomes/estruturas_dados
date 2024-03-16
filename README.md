@@ -5,7 +5,7 @@
  *Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento.*
 <h3>MODULOS</h3> 
 
-<div><img alt="Olá Mundo, Carol na area!" src="https://i.imgur.com/WQmKWug.png" align="right"/></div>
+<div><img alt="Olá Mundo, Carol na area!" src="https://i.imgur.com/ISw5vfq.png" align="right"/></div>
 
 <h3>Unidade I</h3>
 
