@@ -11,11 +11,12 @@
 
 - [X] Pilhas Estáticas
 - [X] Filas Estáticas
-- [ ] Listas Ordenadas › Listas Estáticas <code>em andamento</code>
+- [X] Listas Ordenadas › Listas Estáticas 
 
 <h3>Unidade II</h3>
+<code>em andamento</code>
 
-- [ ] Pilhas e Filas Dinâmicas
+- [X] Pilhas e Filas Dinâmicas
 - [ ] Listas Encadeadas › Dinâmicas
 - [ ] Heap › Monte
 - [ ] Hash › Espalhamento
