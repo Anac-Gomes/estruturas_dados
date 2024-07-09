@@ -17,14 +17,14 @@
 <code>em andamento</code>
 
 - [X] Pilhas e Filas Dinâmicas
-- [ ] Listas Encadeadas › Dinâmicas
-- [ ] Heap › Monte
-- [ ] Hash › Espalhamento
-- [ ] Algoritmos de ordenação e pesquisa
+- [X] Listas Encadeadas › Dinâmicas
+- [X] Heap › Monte
+- [X] Hash › Espalhamento
+- [X] Algoritmos de ordenação e pesquisa
 
-<h3>Unidade I</h3>
+<h3>Unidade III</h3>
 
-- [ ] Árvores Binárias de Busca
+- [X] Árvores Binárias de Busca
 - [ ] Árvores AVL. Árvores Rubro-negra
 - [ ] Árvores B e B+
 
