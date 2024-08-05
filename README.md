@@ -14,7 +14,6 @@
 - [X] Listas Ordenadas › Listas Estáticas 
 
 <h3>Unidade II</h3>
-<code>em andamento</code>
 
 - [X] Pilhas e Filas Dinâmicas
 - [X] Listas Encadeadas › Dinâmicas
@@ -23,6 +22,7 @@
 - [X] Algoritmos de ordenação e pesquisa
 
 <h3>Unidade III</h3>
+<code>em andamento</code>
 
 - [X] Árvores Binárias de Busca
 - [X] Árvores AVL. Árvores Rubro-negra
