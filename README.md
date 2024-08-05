@@ -25,8 +25,8 @@
 <h3>Unidade III</h3>
 
 - [X] Árvores Binárias de Busca
-- [ ] Árvores AVL. Árvores Rubro-negra
-- [ ] Árvores B e B+
+- [X] Árvores AVL. Árvores Rubro-negra
+- [X] Árvores B e B+
 
 
 <h3>Conongrama</h3>
